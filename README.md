@@ -1,13 +1,10 @@
+# [FORMATTED PDF VERSION (recommended reading method)](https://github.com/AlexMainstone/masters-dissertation/blob/main/dissertation.pdf)
+
 # Evaluating the Complexity of Welsh to English Machine Translation Tasks
-
-## Msc AI & Machine Learning
-
-## Alexander Mainstone
-
-## Supervised by Dr. Peter Hancox
-
-## Submitted September 2021
-
+- By Alexander Mainstone
+- Msc AI & Machine Learning
+- Supervised by Dr. Peter Hancox
+- Submitted September 2021
 
 ## Abstract
 
